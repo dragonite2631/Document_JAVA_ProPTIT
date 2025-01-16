@@ -10,7 +10,7 @@
   - Mặc định là `public abstract`. Không cần (nhưng có thể) ghi rõ từ khóa này.
 - **Biến trong Interface:**
   - Mặc định là `public static final`. Chúng là hằng số (constant).
-- Được sử dụng để đạt được tính trừu tượng và kế thừa đa dạng trong Java.
+- Được sử dụng để đạt được tính trừu tượng và đa kế thừa trong Java.
 - Thể hiện mối quan hệ IS-A.
 ### Cú pháp:
 ```java
