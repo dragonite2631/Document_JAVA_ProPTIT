@@ -1,5 +1,5 @@
 # JAVA - BUỔI 8: NHẬP XUẤT FILE, EXCEPTION, UNIT TEST
-##. Xử lý file trong Java
+## Xử lý file trong Java
 ### Tổng quan về stream
 - Stream (luồng) là một đối tượng mới của Java được giới thiệu từ phiên bản Java 8, giúp cho việc thao tác trên collection và array trở nên dễ dàng và tối ưu hơn.
 
