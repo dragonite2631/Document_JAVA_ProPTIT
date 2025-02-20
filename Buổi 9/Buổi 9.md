@@ -227,7 +227,7 @@ Trong phát triển phần mềm, ngoài SOLID, còn có các nguyên tắc quan
 
 **Luồng xử lý trong MVC**:
 Luồng xử lý trong MVC rất đơn giản, với web nó gồm các bước như sau:
-1. Đầu tiên là Request từ người dùng được gửi từ client đến server (Xem thêm nếu bạn chưa biết về Request)
+1. Đầu tiên là Request từ người dùng được gửi từ client đến server 
 2. Sau đó Controller dựa vào yêu cầu của người dùng tiến hành giao tiếp với Model để lấy data từ database
 3. Cuối cùng Controller gửi dữ liệu vừa lấy được về View và hiển thị ra cho người dùng trên trình duyệt
    
